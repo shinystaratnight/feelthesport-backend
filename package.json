@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
-    "restartdb": "node ./src/database/resetDb.js"
+    "start": "node src/index.js",
+    "restartdb": "node ./src/database/resetDb.js",
+    "dev": "nodemon src/index.js"
   },
   "author": "me",
   "license": "ISC",
