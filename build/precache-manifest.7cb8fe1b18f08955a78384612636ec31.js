@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35657216600d87cbd0ff765d33ca6449",
+    "revision": "ee7c78cffc94226faba44324ca8a5c60",
     "url": "/index.html"
   },
   {
@@ -8,24 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.df288a71.chunk.css"
   },
   {
-    "revision": "dc153af4d0e9fdac059a",
-    "url": "/static/css/main.0f0ff917.chunk.css"
+    "revision": "a3f854c7ab11a2d4ee99",
+    "url": "/static/css/main.d8866051.chunk.css"
   },
   {
     "revision": "22a4a14ecb5748e43aec",
     "url": "/static/js/2.fe0b917f.chunk.js"
   },
   {
-    "revision": "dc153af4d0e9fdac059a",
-    "url": "/static/js/main.1f26a447.chunk.js"
+    "revision": "a3f854c7ab11a2d4ee99",
+    "url": "/static/js/main.254424ea.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "ff3ed04faf1febf2fb66bbb6264e5e9f",
-    "url": "/static/media/Polygon-2.ff3ed04f.svg"
+    "revision": "380ce7332ba5829223417018f2ad7dee",
+    "url": "/static/media/Polygon-2.380ce733.svg"
   },
   {
     "revision": "c5513ce3163b55ca3edcfdd126ea1ed4",
@@ -36,16 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Polygon.a2d266c0.svg"
   },
   {
-    "revision": "8ddd86e2bd0f9363d017968b97156bbf",
-    "url": "/static/media/basketball.8ddd86e2.svg"
+    "revision": "f26873aa5258029720f787a3a2cd886f",
+    "url": "/static/media/basketball.f26873aa.svg"
   },
   {
     "revision": "5a711c5d1fb74701e050316df99cd090",
     "url": "/static/media/bg.5a711c5d.jpg"
   },
   {
-    "revision": "c52990d420f1c94de59eb06f9d6b09bf",
-    "url": "/static/media/bullet.c52990d4.svg"
+    "revision": "1f26a9de5997266e9951fe9d4bb9042e",
+    "url": "/static/media/bullet.1f26a9de.svg"
   },
   {
     "revision": "668e4c93c931acf055aa473695d179e1",
@@ -60,28 +60,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/car-3.91296e73.png"
   },
   {
-    "revision": "3593de087ccb3c88779bfc61e99b3a4b",
-    "url": "/static/media/coin.3593de08.svg"
+    "revision": "266544dfbd4be91bccc06151709e60e9",
+    "url": "/static/media/coin.266544df.svg"
   },
   {
-    "revision": "2d41d2c3ce78cde7f17583a503b95e22",
-    "url": "/static/media/events-facebook.2d41d2c3.svg"
+    "revision": "da77dde53342f99738d0745c6279dd12",
+    "url": "/static/media/events-facebook.da77dde5.svg"
   },
   {
-    "revision": "156b8285f4ce8727a56ce88dccbcc060",
-    "url": "/static/media/events-mail1.156b8285.svg"
+    "revision": "bfa61e0afb947137a525de79eb1e1004",
+    "url": "/static/media/events-mail1.bfa61e0a.svg"
   },
   {
-    "revision": "1b434f9015f50557ddde0d50406e0f66",
-    "url": "/static/media/events-mail2.1b434f90.svg"
+    "revision": "ce82f89d4288d98ebf551db59ea3ab00",
+    "url": "/static/media/events-mail2.ce82f89d.svg"
   },
   {
-    "revision": "753c311f754317172e674065a97a55f4",
-    "url": "/static/media/events-whatsapp.753c311f.svg"
+    "revision": "d6757e838c1f4dea93efc4750af234c2",
+    "url": "/static/media/events-whatsapp.d6757e83.svg"
   },
   {
-    "revision": "752665dfe3eb07325715956fc5e8c836",
-    "url": "/static/media/facebook-icon.752665df.svg"
+    "revision": "e09190ef5e176ed3255a39867d443341",
+    "url": "/static/media/facebook-icon.e09190ef.svg"
   },
   {
     "revision": "dd8863064d9cde143979b7aa34f78cbd",
@@ -92,24 +92,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hamburger.86595150.svg"
   },
   {
-    "revision": "d07570e327c13b4c8377764e252e28ee",
-    "url": "/static/media/icon-hand-money.d07570e3.svg"
+    "revision": "5ae2aa965cb1b6281dbcfc97fe2e0c2b",
+    "url": "/static/media/icon-hand-money.5ae2aa96.svg"
   },
   {
-    "revision": "1fc562417031b7e1ae1cd3ddc2663aeb",
-    "url": "/static/media/icon-location.1fc56241.svg"
+    "revision": "248c2cc742cd684362615cdf813ea151",
+    "url": "/static/media/icon-location.248c2cc7.svg"
   },
   {
-    "revision": "c07576ce0aaaf63b8b911ea981525214",
-    "url": "/static/media/icon-map.c07576ce.svg"
+    "revision": "3aa055073d8b8e639243b9448d012b5f",
+    "url": "/static/media/icon-map.3aa05507.svg"
   },
   {
-    "revision": "afb2f21aad7ad664f1687a24a682cf2a",
-    "url": "/static/media/icon-notification.afb2f21a.svg"
+    "revision": "9e8498826eaea8c28319aea53394d6a5",
+    "url": "/static/media/icon-notification.9e849882.svg"
   },
   {
-    "revision": "f855df4f3cbd09c8f4d7cbee1b831baa",
-    "url": "/static/media/icon-time.f855df4f.svg"
+    "revision": "6e1ca10605c73cec7e9f4225a3b9f445",
+    "url": "/static/media/icon-time.6e1ca106.svg"
   },
   {
     "revision": "59cb21fcb55603ac1981dbd7a4336afa",
@@ -120,32 +120,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/login-bg.e5668874.jpg"
   },
   {
-    "revision": "7ba59f9680112ac3069b5bfef4269ab6",
-    "url": "/static/media/mail-icon.7ba59f96.svg"
+    "revision": "1d4bbd5e47877a4d1352fc82eff2373f",
+    "url": "/static/media/mail-icon.1d4bbd5e.svg"
   },
   {
-    "revision": "4f4a7f644a5f292ea01113f4920d2302",
-    "url": "/static/media/office-building.4f4a7f64.svg"
+    "revision": "8a52162205852efb8d46bf4b1ea3bea3",
+    "url": "/static/media/office-building.8a521622.svg"
   },
   {
-    "revision": "942a5ee5986025b052ff7a629992f00f",
-    "url": "/static/media/one.942a5ee5.svg"
+    "revision": "462fd56323f54690641f0e9192191632",
+    "url": "/static/media/one.462fd563.svg"
   },
   {
     "revision": "cc42f5b8015bf7bfdcea1b3e6e877591",
     "url": "/static/media/partimg_crop.cc42f5b8.png"
   },
   {
-    "revision": "86ca9c57b93f5d387c40dbec18850224",
-    "url": "/static/media/partner_with_us.86ca9c57.svg"
+    "revision": "423a449d468a8f54f126e96d70beb090",
+    "url": "/static/media/partner_with_us.423a449d.svg"
   },
   {
     "revision": "c0c105a31e7f88329f9a8bc73d39248b",
     "url": "/static/media/placeholder_avatar.c0c105a3.png"
   },
   {
-    "revision": "8c27a12b21bebf41b74db7008457e559",
-    "url": "/static/media/shoot_ball.8c27a12b.svg"
+    "revision": "31194be23dc135f703b9136ff3d553fd",
+    "url": "/static/media/shoot_ball.31194be2.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
@@ -168,16 +168,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sportsclub.e05f3aee.png"
   },
   {
-    "revision": "a1d981dc657acebb6c4e4e21021315c7",
-    "url": "/static/media/star-empty.a1d981dc.svg"
+    "revision": "cce5cf359e703ebb51c0d55b54c45788",
+    "url": "/static/media/star-empty.cce5cf35.svg"
   },
   {
-    "revision": "60ff4c054d7222a7cf9a16ec0f535681",
-    "url": "/static/media/star-filled.60ff4c05.svg"
+    "revision": "979e4d959670319d0eef541aa2891d81",
+    "url": "/static/media/star-filled.979e4d95.svg"
   },
   {
-    "revision": "d04b5dffe80643df665b5d4440141742",
-    "url": "/static/media/vector-2.d04b5dff.svg"
+    "revision": "f3b3a092cae761274bb42b9cda58882b",
+    "url": "/static/media/vector-2.f3b3a092.svg"
   },
   {
     "revision": "1ba7d172c5881a7f02e4eca7a473191a",
