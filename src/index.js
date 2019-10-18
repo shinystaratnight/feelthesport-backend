@@ -40,6 +40,7 @@ jwtStrategy(passport);
 server.use(passport.initialize());
 server.use(passport.session());
 server.use(express.static(path.join(__dirname, "..", "..", "client", "build")));
+server.use(express.static("build"));
 
 server.use("/api", require("./api/"));
  //deleteCartItemsScheduler();
