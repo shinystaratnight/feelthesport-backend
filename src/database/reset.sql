@@ -1,0 +1,8 @@
+-- DROP AND CREATE public SCHEMA
+
+DROP SCHEMA if exists public CASCADE;
+CREATE SCHEMA public;
+
+-- EXTENSIONS
+
+CREATE EXTENSION btree_gist;
