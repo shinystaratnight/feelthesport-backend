@@ -3,6 +3,7 @@ const fs = require("fs").promises;
 require("dotenv").config({ path: path.resolve(__dirname, "../../.env") });
 const { Client } = require("pg");
 
+/*
 const client = new Client({
   host: process.env.DB_HOST,
   port: process.env.DB_PORT,
@@ -10,6 +11,16 @@ const client = new Client({
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD
 });
+*/
+
+const isProduction = process.env.NODE_ENV === 'production';
+
+const connectionString = `postgresql://${process.env.DB_USER}:${process.env.DB_PASSWORD}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_DATABASE}`;
+
+const client = new Client({
+  connectionString: isProduction ? process.env.DATABASE_URL : connectionString,
+  ssl: isProduction,
+})
 
 const restartDb = async () => {
   await client.connect();
