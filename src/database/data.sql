@@ -207,7 +207,7 @@ VALUES
       'https://i.imgur.com/gYGI7Vl.jpg',
       NULL,
       NULL,
-      true
+      false
   )
 
   ;
