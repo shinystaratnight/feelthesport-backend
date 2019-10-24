@@ -36,13 +36,65 @@ VALUES
 INSERT INTO
   sport_categories (category)
 VALUES
-  ('Fitness');
+  ('Fitness'),
+  ('Ball sports'),
+  ('Adventure sports');
 
 INSERT INTO
   sports (sport, category, icon)
 VALUES
   (
     'Football',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Badminton',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Basketball',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Baseball',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Rugby',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Volleyball',
+    'Ball sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Yoga',
+    'Fitness',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Zumba',
+    'Fitness',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Gym',
+    'Fitness',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Boxing',
+    'Fitness',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Cycling',
     'Fitness',
     'https://i.imgur.com/bVuwZPA.png'
   ),
@@ -52,13 +104,33 @@ VALUES
     'https://i.imgur.com/bVuwZPA.png'
   ),
   (
-    'Basketball',
-    'Fitness',
+    'Canoeing',
+    'Adventure sports',
     'https://i.imgur.com/bVuwZPA.png'
   ),
   (
-    'Baseball',
-    'Fitness',
+    'Climbing',
+    'Adventure sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Rafting',
+    'Adventure sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Hiking',
+    'Adventure sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Surfing',
+    'Adventure sports',
+    'https://i.imgur.com/bVuwZPA.png'
+  ),
+  (
+    'Kayaking',
+    'Adventure sports',
     'https://i.imgur.com/bVuwZPA.png'
   );
 
